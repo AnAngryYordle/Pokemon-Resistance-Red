@@ -13,25 +13,73 @@ SurfBGM = Surfing
 BicycleBGM = Bicycle
 #-------------------------------
 [1]
-TrainerType = POKEMONTRAINER_Red
-WalkCharset = trainer_POKEMONTRAINER_Red
-RunCharset = boy_run
-CycleCharset = boy_bike
-SurfCharset = boy_surf
-FishCharset = boy_fish_offset
+TrainerType = BULBASAUR
+WalkCharset = BULBASAUR
+RunCharset = BULBASAUR
+CycleCharset = BULBASAUR
+SurfCharset = BULBASAUR
+FishCharset = BULBASAUR
 #-------------------------------
 [2]
-TrainerType = POKEMONTRAINER_Leaf
-WalkCharset = trainer_POKEMONTRAINER_Leaf
-RunCharset = girl_run
-CycleCharset = girl_bike
-SurfCharset = girl_surf
-FishCharset = girl_fish_offset
+TrainerType = IVYSAUR
+WalkCharset = IVYSAUR
+RunCharset = IVYSAUR
+CycleCharset = IVYSAUR
+SurfCharset = IVYSAUR
+FishCharset = IVYSAUR
 #-------------------------------
 [3]
-TrainerType = PIKACHU
-WalkCharset = PIKACHU
-RunCharset = PIKACHU
-CycleCharset = PIKACHU
-SurfCharset = PIKACHU
-FishCharset = PIKACHU
+TrainerType = VENUSAUR
+WalkCharset = VENUSAUR
+RunCharset = VENUSAUR
+CycleCharset = VENUSAUR
+SurfCharset = VENUSAUR
+FishCharset = VENUSAUR
+#-------------------------------
+[4]
+TrainerType = CHARMANDER
+WalkCharset = CHARMANDER
+RunCharset = CHARMANDER
+CycleCharset = CHARMANDER
+SurfCharset = CHARMANDER
+FishCharset = CHARMANDER
+#-------------------------------
+[5]
+TrainerType = CHARMELEON
+WalkCharset = CHARMELEON
+RunCharset = CHARMELEON
+CycleCharset = CHARMELEON
+SurfCharset = CHARMELEON
+FishCharset = CHARMELEON
+#-------------------------------
+[6]
+TrainerType = CHARIZARD
+WalkCharset = CHARIZARD
+RunCharset = CHARIZARD
+CycleCharset = CHARIZARD
+SurfCharset = CHARIZARD
+FishCharset = CHARIZARD
+#-------------------------------
+[7]
+TrainerType = SQUIRTLE
+WalkCharset = SQUIRTLE
+RunCharset = SQUIRTLE
+CycleCharset = SQUIRTLE
+SurfCharset = SQUIRTLE
+FishCharset = SQUIRTLE
+#-------------------------------
+[8]
+TrainerType = WARTORTLE
+WalkCharset = WARTORTLE
+RunCharset = WARTORTLE
+CycleCharset = WARTORTLE
+SurfCharset = WARTORTLE
+FishCharset = WARTORTLE
+#-------------------------------
+[9]
+TrainerType = BLASTOISE
+WalkCharset = BLASTOISE
+RunCharset = BLASTOISE
+CycleCharset = BLASTOISE
+SurfCharset = BLASTOISE
+FishCharset = BLASTOISE
