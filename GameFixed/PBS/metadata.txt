@@ -83,3 +83,1139 @@ RunCharset = BLASTOISE
 CycleCharset = BLASTOISE
 SurfCharset = BLASTOISE
 FishCharset = BLASTOISE
+#-------------------------------
+[10]
+TrainerType = CATERPIE
+WalkCharset = CATERPIE
+RunCharset = CATERPIE
+CycleCharset = CATERPIE
+SurfCharset = CATERPIE
+FishCharset = CATERPIE
+#-------------------------------
+[11]
+TrainerType = METAPOD
+WalkCharset = METAPOD
+RunCharset = METAPOD
+CycleCharset = METAPOD
+SurfCharset = METAPOD
+FishCharset = METAPOD
+#-------------------------------
+[12]
+TrainerType = BUTTERFREE
+WalkCharset = BUTTERFREE
+RunCharset = BUTTERFREE
+CycleCharset = BUTTERFREE
+SurfCharset = BUTTERFREE
+FishCharset = BUTTERFREE
+#-------------------------------
+[13]
+TrainerType = WEEDLE
+WalkCharset = WEEDLE
+RunCharset = WEEDLE
+CycleCharset = WEEDLE
+SurfCharset = WEEDLE
+FishCharset = WEEDLE
+#-------------------------------
+[14]
+TrainerType = KAKUNA
+WalkCharset = KAKUNA
+RunCharset = KAKUNA
+CycleCharset = KAKUNA
+SurfCharset = KAKUNA
+FishCharset = KAKUNA
+#-------------------------------
+[15]
+TrainerType = BEEDRILL
+WalkCharset = BEEDRILL
+RunCharset = BEEDRILL
+CycleCharset = BEEDRILL
+SurfCharset = BEEDRILL
+FishCharset = BEEDRILL
+#-------------------------------
+[16]
+TrainerType = PIDGEY
+WalkCharset = PIDGEY
+RunCharset = PIDGEY
+CycleCharset = PIDGEY
+SurfCharset = PIDGEY
+FishCharset = PIDGEY
+#-------------------------------
+[17]
+TrainerType = PIDGEOTTO
+WalkCharset = PIDGEOTTO
+RunCharset = PIDGEOTTO
+CycleCharset = PIDGEOTTO
+SurfCharset = PIDGEOTTO
+FishCharset = PIDGEOTTO
+#-------------------------------
+[18]
+TrainerType = PIDGEOT
+WalkCharset = PIDGEOT
+RunCharset = PIDGEOT
+CycleCharset = PIDGEOT
+SurfCharset = PIDGEOT
+FishCharset = PIDGEOT
+#-------------------------------
+[19]
+TrainerType = RATTATA
+WalkCharset = RATTATA
+RunCharset = RATTATA
+CycleCharset = RATTATA
+SurfCharset = RATTATA
+FishCharset = RATTATA
+#-------------------------------
+[20]
+TrainerType = RATICATE
+WalkCharset = RATICATE
+RunCharset = RATICATE
+CycleCharset = RATICATE
+SurfCharset = RATICATE
+FishCharset = RATICATE
+#-------------------------------
+[21]
+TrainerType = SPEAROW
+WalkCharset = SPEAROW
+RunCharset = SPEAROW
+CycleCharset = SPEAROW
+SurfCharset = SPEAROW
+FishCharset = SPEAROW
+#-------------------------------
+[22]
+TrainerType = FEAROW
+WalkCharset = FEAROW
+RunCharset = FEAROW
+CycleCharset = FEAROW
+SurfCharset = FEAROW
+FishCharset = FEAROW
+#-------------------------------
+[23]
+TrainerType = EKANS
+WalkCharset = EKANS
+RunCharset = EKANS
+CycleCharset = EKANS
+SurfCharset = EKANS
+FishCharset = EKANS
+#-------------------------------
+[24]
+TrainerType = ARBOK
+WalkCharset = ARBOK
+RunCharset = ARBOK
+CycleCharset = ARBOK
+SurfCharset = ARBOK
+FishCharset = ARBOK
+#-------------------------------
+[25]
+TrainerType = PIKACHU
+WalkCharset = PIKACHU
+RunCharset = PIKACHU
+CycleCharset = PIKACHU
+SurfCharset = PIKACHU
+FishCharset = PIKACHU
+#-------------------------------
+[26]
+TrainerType = RAICHU
+WalkCharset = RAICHU
+RunCharset = RAICHU
+CycleCharset = RAICHU
+SurfCharset = RAICHU
+FishCharset = RAICHU
+#-------------------------------
+[27]
+TrainerType = SANDSHREW
+WalkCharset = SANDSHREW
+RunCharset = SANDSHREW
+CycleCharset = SANDSHREW
+SurfCharset = SANDSHREW
+FishCharset = SANDSHREW
+#-------------------------------
+[28]
+TrainerType = SANDSLASH
+WalkCharset = SANDSLASH
+RunCharset = SANDSLASH
+CycleCharset = SANDSLASH
+SurfCharset = SANDSLASH
+FishCharset = SANDSLASH
+#-------------------------------
+[29]
+TrainerType = NIDORANfE
+WalkCharset = NIDORANfE
+RunCharset = NIDORANfE
+CycleCharset = NIDORANfE
+SurfCharset = NIDORANfE
+FishCharset = NIDORANfE
+#-------------------------------
+[30]
+TrainerType = NIDORINA
+WalkCharset = NIDORINA
+RunCharset = NIDORINA
+CycleCharset = NIDORINA
+SurfCharset = NIDORINA
+FishCharset = NIDORINA
+#-------------------------------
+[31]
+TrainerType = NIDOQUEEN
+WalkCharset = NIDOQUEEN
+RunCharset = NIDOQUEEN
+CycleCharset = NIDOQUEEN
+SurfCharset = NIDOQUEEN
+FishCharset = NIDOQUEEN
+#-------------------------------
+[32]
+TrainerType = NIDORANmA
+WalkCharset = NIDORANmA
+RunCharset = NIDORANmA
+CycleCharset = NIDORANmA
+SurfCharset = NIDORANmA
+FishCharset = NIDORANmA
+#-------------------------------
+[33]
+TrainerType = NIDORINO
+WalkCharset = NIDORINO
+RunCharset = NIDORINO
+CycleCharset = NIDORINO
+SurfCharset = NIDORINO
+FishCharset = NIDORINO
+#-------------------------------
+[34]
+TrainerType = NIDOKING
+WalkCharset = NIDOKING
+RunCharset = NIDOKING
+CycleCharset = NIDOKING
+SurfCharset = NIDOKING
+FishCharset = NIDOKING
+#-------------------------------
+[35]
+TrainerType = CLEFAIRY
+WalkCharset = CLEFAIRY
+RunCharset = CLEFAIRY
+CycleCharset = CLEFAIRY
+SurfCharset = CLEFAIRY
+FishCharset = CLEFAIRY
+#-------------------------------
+[36]
+TrainerType = CLEFABLE
+WalkCharset = CLEFABLE
+RunCharset = CLEFABLE
+CycleCharset = CLEFABLE
+SurfCharset = CLEFABLE
+FishCharset = CLEFABLE
+#-------------------------------
+[37]
+TrainerType = VULPIX
+WalkCharset = VULPIX
+RunCharset = VULPIX
+CycleCharset = VULPIX
+SurfCharset = VULPIX
+FishCharset = VULPIX
+#-------------------------------
+[38]
+TrainerType = NINETALES
+WalkCharset = NINETALES
+RunCharset = NINETALES
+CycleCharset = NINETALES
+SurfCharset = NINETALES
+FishCharset = NINETALES
+#-------------------------------
+[39]
+TrainerType = JIGGLYPUFF
+WalkCharset = JIGGLYPUFF
+RunCharset = JIGGLYPUFF
+CycleCharset = JIGGLYPUFF
+SurfCharset = JIGGLYPUFF
+FishCharset = JIGGLYPUFF
+#-------------------------------
+[40]
+TrainerType = WIGGLYTUFF
+WalkCharset = WIGGLYTUFF
+RunCharset = WIGGLYTUFF
+CycleCharset = WIGGLYTUFF
+SurfCharset = WIGGLYTUFF
+FishCharset = WIGGLYTUFF
+#-------------------------------
+[41]
+TrainerType = ZUBAT
+WalkCharset = ZUBAT
+RunCharset = ZUBAT
+CycleCharset = ZUBAT
+SurfCharset = ZUBAT
+FishCharset = ZUBAT
+#-------------------------------
+[42]
+TrainerType = GOLBAT
+WalkCharset = GOLBAT
+RunCharset = GOLBAT
+CycleCharset = GOLBAT
+SurfCharset = GOLBAT
+FishCharset = GOLBAT
+#-------------------------------
+[43]
+TrainerType = ODDISH
+WalkCharset = ODDISH
+RunCharset = ODDISH
+CycleCharset = ODDISH
+SurfCharset = ODDISH
+FishCharset = ODDISH
+#-------------------------------
+[44]
+TrainerType = GLOOM
+WalkCharset = GLOOM
+RunCharset = GLOOM
+CycleCharset = GLOOM
+SurfCharset = GLOOM
+FishCharset = GLOOM
+#-------------------------------
+[45]
+TrainerType = VILEPLUME
+WalkCharset = VILEPLUME
+RunCharset = VILEPLUME
+CycleCharset = VILEPLUME
+SurfCharset = VILEPLUME
+FishCharset = VILEPLUME
+#-------------------------------
+[46]
+TrainerType = PARAS
+WalkCharset = PARAS
+RunCharset = PARAS
+CycleCharset = PARAS
+SurfCharset = PARAS
+FishCharset = PARAS
+#-------------------------------
+[47]
+TrainerType = PARASECT
+WalkCharset = PARASECT
+RunCharset = PARASECT
+CycleCharset = PARASECT
+SurfCharset = PARASECT
+FishCharset = PARASECT
+#-------------------------------
+[48]
+TrainerType = VENONAT
+WalkCharset = VENONAT
+RunCharset = VENONAT
+CycleCharset = VENONAT
+SurfCharset = VENONAT
+FishCharset = VENONAT
+#-------------------------------
+[49]
+TrainerType = VENOMOTH
+WalkCharset = VENOMOTH
+RunCharset = VENOMOTH
+CycleCharset = VENOMOTH
+SurfCharset = VENOMOTH
+FishCharset = VENOMOTH
+#-------------------------------
+[50]
+TrainerType = DIGLETT
+WalkCharset = DIGLETT
+RunCharset = DIGLETT
+CycleCharset = DIGLETT
+SurfCharset = DIGLETT
+FishCharset = DIGLETT
+#-------------------------------
+[51]
+TrainerType = DUGTRIO
+WalkCharset = DUGTRIO
+RunCharset = DUGTRIO
+CycleCharset = DUGTRIO
+SurfCharset = DUGTRIO
+FishCharset = DUGTRIO
+#-------------------------------
+[52]
+TrainerType = MEOWTH
+WalkCharset = MEOWTH
+RunCharset = MEOWTH
+CycleCharset = MEOWTH
+SurfCharset = MEOWTH
+FishCharset = MEOWTH
+#-------------------------------
+[53]
+TrainerType = PERSIAN
+WalkCharset = PERSIAN
+RunCharset = PERSIAN
+CycleCharset = PERSIAN
+SurfCharset = PERSIAN
+FishCharset = PERSIAN
+#-------------------------------
+[54]
+TrainerType = PSYDUCK
+WalkCharset = PSYDUCK
+RunCharset = PSYDUCK
+CycleCharset = PSYDUCK
+SurfCharset = PSYDUCK
+FishCharset = PSYDUCK
+#-------------------------------
+[55]
+TrainerType = GOLDUCK
+WalkCharset = GOLDUCK
+RunCharset = GOLDUCK
+CycleCharset = GOLDUCK
+SurfCharset = GOLDUCK
+FishCharset = GOLDUCK
+#-------------------------------
+[56]
+TrainerType = MANKEY
+WalkCharset = MANKEY
+RunCharset = MANKEY
+CycleCharset = MANKEY
+SurfCharset = MANKEY
+FishCharset = MANKEY
+#-------------------------------
+[57]
+TrainerType = PRIMEAPE
+WalkCharset = PRIMEAPE
+RunCharset = PRIMEAPE
+CycleCharset = PRIMEAPE
+SurfCharset = PRIMEAPE
+FishCharset = PRIMEAPE
+#-------------------------------
+[58]
+TrainerType = GROWLITHE
+WalkCharset = GROWLITHE
+RunCharset = GROWLITHE
+CycleCharset = GROWLITHE
+SurfCharset = GROWLITHE
+FishCharset = GROWLITHE
+#-------------------------------
+[59]
+TrainerType = ARCANINE
+WalkCharset = ARCANINE
+RunCharset = ARCANINE
+CycleCharset = ARCANINE
+SurfCharset = ARCANINE
+FishCharset = ARCANINE
+#-------------------------------
+[60]
+TrainerType = POLIWAG
+WalkCharset = POLIWAG
+RunCharset = POLIWAG
+CycleCharset = POLIWAG
+SurfCharset = POLIWAG
+FishCharset = POLIWAG
+#-------------------------------
+[61]
+TrainerType = POLIWHIRL
+WalkCharset = POLIWHIRL
+RunCharset = POLIWHIRL
+CycleCharset = POLIWHIRL
+SurfCharset = POLIWHIRL
+FishCharset = POLIWHIRL
+#-------------------------------
+[62]
+TrainerType = POLIWRATH
+WalkCharset = POLIWRATH
+RunCharset = POLIWRATH
+CycleCharset = POLIWRATH
+SurfCharset = POLIWRATH
+FishCharset = POLIWRATH
+#-------------------------------
+[63]
+TrainerType = ABRA
+WalkCharset = ABRA
+RunCharset = ABRA
+CycleCharset = ABRA
+SurfCharset = ABRA
+FishCharset = ABRA
+#-------------------------------
+[64]
+TrainerType = KADABRA
+WalkCharset = KADABRA
+RunCharset = KADABRA
+CycleCharset = KADABRA
+SurfCharset = KADABRA
+FishCharset = KADABRA
+#-------------------------------
+[65]
+TrainerType = ALAKAZAM
+WalkCharset = ALAKAZAM
+RunCharset = ALAKAZAM
+CycleCharset = ALAKAZAM
+SurfCharset = ALAKAZAM
+FishCharset = ALAKAZAM
+#-------------------------------
+[66]
+TrainerType = MACHOP
+WalkCharset = MACHOP
+RunCharset = MACHOP
+CycleCharset = MACHOP
+SurfCharset = MACHOP
+FishCharset = MACHOP
+#-------------------------------
+[67]
+TrainerType = MACHOKE
+WalkCharset = MACHOKE
+RunCharset = MACHOKE
+CycleCharset = MACHOKE
+SurfCharset = MACHOKE
+FishCharset = MACHOKE
+#-------------------------------
+[68]
+TrainerType = MACHAMP
+WalkCharset = MACHAMP
+RunCharset = MACHAMP
+CycleCharset = MACHAMP
+SurfCharset = MACHAMP
+FishCharset = MACHAMP
+#-------------------------------
+[69]
+TrainerType = BELLSPROUT
+WalkCharset = BELLSPROUT
+RunCharset = BELLSPROUT
+CycleCharset = BELLSPROUT
+SurfCharset = BELLSPROUT
+FishCharset = BELLSPROUT
+#-------------------------------
+[70]
+TrainerType = WEEPINBELL
+WalkCharset = WEEPINBELL
+RunCharset = WEEPINBELL
+CycleCharset = WEEPINBELL
+SurfCharset = WEEPINBELL
+FishCharset = WEEPINBELL
+#-------------------------------
+[71]
+TrainerType = VICTREEBEL
+WalkCharset = VICTREEBEL
+RunCharset = VICTREEBEL
+CycleCharset = VICTREEBEL
+SurfCharset = VICTREEBEL
+FishCharset = VICTREEBEL
+#-------------------------------
+[72]
+TrainerType = TENTACOOL
+WalkCharset = TENTACOOL
+RunCharset = TENTACOOL
+CycleCharset = TENTACOOL
+SurfCharset = TENTACOOL
+FishCharset = TENTACOOL
+#-------------------------------
+[73]
+TrainerType = TENTACRUEL
+WalkCharset = TENTACRUEL
+RunCharset = TENTACRUEL
+CycleCharset = TENTACRUEL
+SurfCharset = TENTACRUEL
+FishCharset = TENTACRUEL
+#-------------------------------
+[74]
+TrainerType = GEODUDE
+WalkCharset = GEODUDE
+RunCharset = GEODUDE
+CycleCharset = GEODUDE
+SurfCharset = GEODUDE
+FishCharset = GEODUDE
+#-------------------------------
+[75]
+TrainerType = GRAVELER
+WalkCharset = GRAVELER
+RunCharset = GRAVELER
+CycleCharset = GRAVELER
+SurfCharset = GRAVELER
+FishCharset = GRAVELER
+#-------------------------------
+[76]
+TrainerType = GOLEM
+WalkCharset = GOLEM
+RunCharset = GOLEM
+CycleCharset = GOLEM
+SurfCharset = GOLEM
+FishCharset = GOLEM
+#-------------------------------
+[77]
+TrainerType = PONYTA
+WalkCharset = PONYTA
+RunCharset = PONYTA
+CycleCharset = PONYTA
+SurfCharset = PONYTA
+FishCharset = PONYTA
+#-------------------------------
+[78]
+TrainerType = RAPIDASH
+WalkCharset = RAPIDASH
+RunCharset = RAPIDASH
+CycleCharset = RAPIDASH
+SurfCharset = RAPIDASH
+FishCharset = RAPIDASH
+#-------------------------------
+[79]
+TrainerType = SLOWPOKE
+WalkCharset = SLOWPOKE
+RunCharset = SLOWPOKE
+CycleCharset = SLOWPOKE
+SurfCharset = SLOWPOKE
+FishCharset = SLOWPOKE
+#-------------------------------
+[80]
+TrainerType = SLOWBRO
+WalkCharset = SLOWBRO
+RunCharset = SLOWBRO
+CycleCharset = SLOWBRO
+SurfCharset = SLOWBRO
+FishCharset = SLOWBRO
+#-------------------------------
+[81]
+TrainerType = MAGNEMITE
+WalkCharset = MAGNEMITE
+RunCharset = MAGNEMITE
+CycleCharset = MAGNEMITE
+SurfCharset = MAGNEMITE
+FishCharset = MAGNEMITE
+#-------------------------------
+[82]
+TrainerType = MAGNETON
+WalkCharset = MAGNETON
+RunCharset = MAGNETON
+CycleCharset = MAGNETON
+SurfCharset = MAGNETON
+FishCharset = MAGNETON
+#-------------------------------
+[83]
+TrainerType = FARFETCHD
+WalkCharset = FARFETCHD
+RunCharset = FARFETCHD
+CycleCharset = FARFETCHD
+SurfCharset = FARFETCHD
+FishCharset = FARFETCHD
+#-------------------------------
+[84]
+TrainerType = DODUO
+WalkCharset = DODUO
+RunCharset = DODUO
+CycleCharset = DODUO
+SurfCharset = DODUO
+FishCharset = DODUO
+#-------------------------------
+[85]
+TrainerType = DODRIO
+WalkCharset = DODRIO
+RunCharset = DODRIO
+CycleCharset = DODRIO
+SurfCharset = DODRIO
+FishCharset = DODRIO
+#-------------------------------
+[86]
+TrainerType = SEEL
+WalkCharset = SEEL
+RunCharset = SEEL
+CycleCharset = SEEL
+SurfCharset = SEEL
+FishCharset = SEEL
+#-------------------------------
+[87]
+TrainerType = DEWGONG
+WalkCharset = DEWGONG
+RunCharset = DEWGONG
+CycleCharset = DEWGONG
+SurfCharset = DEWGONG
+FishCharset = DEWGONG
+#-------------------------------
+[88]
+TrainerType = GRIMER
+WalkCharset = GRIMER
+RunCharset = GRIMER
+CycleCharset = GRIMER
+SurfCharset = GRIMER
+FishCharset = GRIMER
+#-------------------------------
+[89]
+TrainerType = MUK
+WalkCharset = MUK
+RunCharset = MUK
+CycleCharset = MUK
+SurfCharset = MUK
+FishCharset = MUK
+#-------------------------------
+[90]
+TrainerType = SHELLDER
+WalkCharset = SHELLDER
+RunCharset = SHELLDER
+CycleCharset = SHELLDER
+SurfCharset = SHELLDER
+FishCharset = SHELLDER
+#-------------------------------
+[91]
+TrainerType = CLOYSTER
+WalkCharset = CLOYSTER
+RunCharset = CLOYSTER
+CycleCharset = CLOYSTER
+SurfCharset = CLOYSTER
+FishCharset = CLOYSTER
+#-------------------------------
+[92]
+TrainerType = GASTLY
+WalkCharset = GASTLY
+RunCharset = GASTLY
+CycleCharset = GASTLY
+SurfCharset = GASTLY
+FishCharset = GASTLY
+#-------------------------------
+[93]
+TrainerType = HAUNTER
+WalkCharset = HAUNTER
+RunCharset = HAUNTER
+CycleCharset = HAUNTER
+SurfCharset = HAUNTER
+FishCharset = HAUNTER
+#-------------------------------
+[94]
+TrainerType = GENGAR
+WalkCharset = GENGAR
+RunCharset = GENGAR
+CycleCharset = GENGAR
+SurfCharset = GENGAR
+FishCharset = GENGAR
+#-------------------------------
+[95]
+TrainerType = ONIX
+WalkCharset = ONIX
+RunCharset = ONIX
+CycleCharset = ONIX
+SurfCharset = ONIX
+FishCharset = ONIX
+#-------------------------------
+[96]
+TrainerType = DROWZEE
+WalkCharset = DROWZEE
+RunCharset = DROWZEE
+CycleCharset = DROWZEE
+SurfCharset = DROWZEE
+FishCharset = DROWZEE
+#-------------------------------
+[97]
+TrainerType = HYPNO
+WalkCharset = HYPNO
+RunCharset = HYPNO
+CycleCharset = HYPNO
+SurfCharset = HYPNO
+FishCharset = HYPNO
+#-------------------------------
+[98]
+TrainerType = KRABBY
+WalkCharset = KRABBY
+RunCharset = KRABBY
+CycleCharset = KRABBY
+SurfCharset = KRABBY
+FishCharset = KRABBY
+#-------------------------------
+[99]
+TrainerType = KINGLER
+WalkCharset = KINGLER
+RunCharset = KINGLER
+CycleCharset = KINGLER
+SurfCharset = KINGLER
+FishCharset = KINGLER
+#-------------------------------
+[100]
+TrainerType = VOLTORB
+WalkCharset = VOLTORB
+RunCharset = VOLTORB
+CycleCharset = VOLTORB
+SurfCharset = VOLTORB
+FishCharset = VOLTORB
+#-------------------------------
+[101]
+TrainerType = ELECTRODE
+WalkCharset = ELECTRODE
+RunCharset = ELECTRODE
+CycleCharset = ELECTRODE
+SurfCharset = ELECTRODE
+FishCharset = ELECTRODE
+#-------------------------------
+[102]
+TrainerType = EXEGGCUTE
+WalkCharset = EXEGGCUTE
+RunCharset = EXEGGCUTE
+CycleCharset = EXEGGCUTE
+SurfCharset = EXEGGCUTE
+FishCharset = EXEGGCUTE
+#-------------------------------
+[103]
+TrainerType = EXEGGUTOR
+WalkCharset = EXEGGUTOR
+RunCharset = EXEGGUTOR
+CycleCharset = EXEGGUTOR
+SurfCharset = EXEGGUTOR
+FishCharset = EXEGGUTOR
+#-------------------------------
+[104]
+TrainerType = CUBONE
+WalkCharset = CUBONE
+RunCharset = CUBONE
+CycleCharset = CUBONE
+SurfCharset = CUBONE
+FishCharset = CUBONE
+#-------------------------------
+[105]
+TrainerType = MAROWAK
+WalkCharset = MAROWAK
+RunCharset = MAROWAK
+CycleCharset = MAROWAK
+SurfCharset = MAROWAK
+FishCharset = MAROWAK
+#-------------------------------
+[106]
+TrainerType = HITMONLEE
+WalkCharset = HITMONLEE
+RunCharset = HITMONLEE
+CycleCharset = HITMONLEE
+SurfCharset = HITMONLEE
+FishCharset = HITMONLEE
+#-------------------------------
+[107]
+TrainerType = HITMONCHAN
+WalkCharset = HITMONCHAN
+RunCharset = HITMONCHAN
+CycleCharset = HITMONCHAN
+SurfCharset = HITMONCHAN
+FishCharset = HITMONCHAN
+#-------------------------------
+[108]
+TrainerType = LICKITUNG
+WalkCharset = LICKITUNG
+RunCharset = LICKITUNG
+CycleCharset = LICKITUNG
+SurfCharset = LICKITUNG
+FishCharset = LICKITUNG
+#-------------------------------
+[109]
+TrainerType = KOFFING
+WalkCharset = KOFFING
+RunCharset = KOFFING
+CycleCharset = KOFFING
+SurfCharset = KOFFING
+FishCharset = KOFFING
+#-------------------------------
+[110]
+TrainerType = WEEZING
+WalkCharset = WEEZING
+RunCharset = WEEZING
+CycleCharset = WEEZING
+SurfCharset = WEEZING
+FishCharset = WEEZING
+#-------------------------------
+[111]
+TrainerType = RHYHORN
+WalkCharset = RHYHORN
+RunCharset = RHYHORN
+CycleCharset = RHYHORN
+SurfCharset = RHYHORN
+FishCharset = RHYHORN
+#-------------------------------
+[112]
+TrainerType = RHYDON
+WalkCharset = RHYDON
+RunCharset = RHYDON
+CycleCharset = RHYDON
+SurfCharset = RHYDON
+FishCharset = RHYDON
+#-------------------------------
+[113]
+TrainerType = CHANSEY
+WalkCharset = CHANSEY
+RunCharset = CHANSEY
+CycleCharset = CHANSEY
+SurfCharset = CHANSEY
+FishCharset = CHANSEY
+#-------------------------------
+[114]
+TrainerType = TANGELA
+WalkCharset = TANGELA
+RunCharset = TANGELA
+CycleCharset = TANGELA
+SurfCharset = TANGELA
+FishCharset = TANGELA
+#-------------------------------
+[115]
+TrainerType = KANGASKHAN
+WalkCharset = KANGASKHAN
+RunCharset = KANGASKHAN
+CycleCharset = KANGASKHAN
+SurfCharset = KANGASKHAN
+FishCharset = KANGASKHAN
+#-------------------------------
+[116]
+TrainerType = HORSEA
+WalkCharset = HORSEA
+RunCharset = HORSEA
+CycleCharset = HORSEA
+SurfCharset = HORSEA
+FishCharset = HORSEA
+#-------------------------------
+[117]
+TrainerType = SEADRA
+WalkCharset = SEADRA
+RunCharset = SEADRA
+CycleCharset = SEADRA
+SurfCharset = SEADRA
+FishCharset = SEADRA
+#-------------------------------
+[118]
+TrainerType = GOLDEEN
+WalkCharset = GOLDEEN
+RunCharset = GOLDEEN
+CycleCharset = GOLDEEN
+SurfCharset = GOLDEEN
+FishCharset = GOLDEEN
+#-------------------------------
+[119]
+TrainerType = SEAKING
+WalkCharset = SEAKING
+RunCharset = SEAKING
+CycleCharset = SEAKING
+SurfCharset = SEAKING
+FishCharset = SEAKING
+#-------------------------------
+[120]
+TrainerType = STARYU
+WalkCharset = STARYU
+RunCharset = STARYU
+CycleCharset = STARYU
+SurfCharset = STARYU
+FishCharset = STARYU
+#-------------------------------
+[121]
+TrainerType = STARMIE
+WalkCharset = STARMIE
+RunCharset = STARMIE
+CycleCharset = STARMIE
+SurfCharset = STARMIE
+FishCharset = STARMIE
+#-------------------------------
+[122]
+TrainerType = MRMIME
+WalkCharset = MRMIME
+RunCharset = MRMIME
+CycleCharset = MRMIME
+SurfCharset = MRMIME
+FishCharset = MRMIME
+#-------------------------------
+[123]
+TrainerType = SCYTHER
+WalkCharset = SCYTHER
+RunCharset = SCYTHER
+CycleCharset = SCYTHER
+SurfCharset = SCYTHER
+FishCharset = SCYTHER
+#-------------------------------
+[124]
+TrainerType = JYNX
+WalkCharset = JYNX
+RunCharset = JYNX
+CycleCharset = JYNX
+SurfCharset = JYNX
+FishCharset = JYNX
+#-------------------------------
+[125]
+TrainerType = ELECTABUZZ
+WalkCharset = ELECTABUZZ
+RunCharset = ELECTABUZZ
+CycleCharset = ELECTABUZZ
+SurfCharset = ELECTABUZZ
+FishCharset = ELECTABUZZ
+#-------------------------------
+[126]
+TrainerType = MAGMAR
+WalkCharset = MAGMAR
+RunCharset = MAGMAR
+CycleCharset = MAGMAR
+SurfCharset = MAGMAR
+FishCharset = MAGMAR
+#-------------------------------
+[127]
+TrainerType = PINSIR
+WalkCharset = PINSIR
+RunCharset = PINSIR
+CycleCharset = PINSIR
+SurfCharset = PINSIR
+FishCharset = PINSIR
+#-------------------------------
+[128]
+TrainerType = TAUROS
+WalkCharset = TAUROS
+RunCharset = TAUROS
+CycleCharset = TAUROS
+SurfCharset = TAUROS
+FishCharset = TAUROS
+#-------------------------------
+[129]
+TrainerType = MAGIKARP
+WalkCharset = MAGIKARP
+RunCharset = MAGIKARP
+CycleCharset = MAGIKARP
+SurfCharset = MAGIKARP
+FishCharset = MAGIKARP
+#-------------------------------
+[130]
+TrainerType = GYARADOS
+WalkCharset = GYARADOS
+RunCharset = GYARADOS
+CycleCharset = GYARADOS
+SurfCharset = GYARADOS
+FishCharset = GYARADOS
+#-------------------------------
+[131]
+TrainerType = LAPRAS
+WalkCharset = LAPRAS
+RunCharset = LAPRAS
+CycleCharset = LAPRAS
+SurfCharset = LAPRAS
+FishCharset = LAPRAS
+#-------------------------------
+[132]
+TrainerType = DITTO
+WalkCharset = DITTO
+RunCharset = DITTO
+CycleCharset = DITTO
+SurfCharset = DITTO
+FishCharset = DITTO
+#-------------------------------
+[133]
+TrainerType = EEVEE
+WalkCharset = EEVEE
+RunCharset = EEVEE
+CycleCharset = EEVEE
+SurfCharset = EEVEE
+FishCharset = EEVEE
+#-------------------------------
+[134]
+TrainerType = VAPOREON
+WalkCharset = VAPOREON
+RunCharset = VAPOREON
+CycleCharset = VAPOREON
+SurfCharset = VAPOREON
+FishCharset = VAPOREON
+#-------------------------------
+[135]
+TrainerType = JOLTEON
+WalkCharset = JOLTEON
+RunCharset = JOLTEON
+CycleCharset = JOLTEON
+SurfCharset = JOLTEON
+FishCharset = JOLTEON
+#-------------------------------
+[136]
+TrainerType = FLAREON
+WalkCharset = FLAREON
+RunCharset = FLAREON
+CycleCharset = FLAREON
+SurfCharset = FLAREON
+FishCharset = FLAREON
+#-------------------------------
+[137]
+TrainerType = PORYGON
+WalkCharset = PORYGON
+RunCharset = PORYGON
+CycleCharset = PORYGON
+SurfCharset = PORYGON
+FishCharset = PORYGON
+#-------------------------------
+[138]
+TrainerType = OMANYTE
+WalkCharset = OMANYTE
+RunCharset = OMANYTE
+CycleCharset = OMANYTE
+SurfCharset = OMANYTE
+FishCharset = OMANYTE
+#-------------------------------
+[139]
+TrainerType = OMASTAR
+WalkCharset = OMASTAR
+RunCharset = OMASTAR
+CycleCharset = OMASTAR
+SurfCharset = OMASTAR
+FishCharset = OMASTAR
+#-------------------------------
+[140]
+TrainerType = KABUTO
+WalkCharset = KABUTO
+RunCharset = KABUTO
+CycleCharset = KABUTO
+SurfCharset = KABUTO
+FishCharset = KABUTO
+#-------------------------------
+[141]
+TrainerType = KABUTOPS
+WalkCharset = KABUTOPS
+RunCharset = KABUTOPS
+CycleCharset = KABUTOPS
+SurfCharset = KABUTOPS
+FishCharset = KABUTOPS
+#-------------------------------
+[142]
+TrainerType = AERODACTYL
+WalkCharset = AERODACTYL
+RunCharset = AERODACTYL
+CycleCharset = AERODACTYL
+SurfCharset = AERODACTYL
+FishCharset = AERODACTYL
+#-------------------------------
+[143]
+TrainerType = SNORLAX
+WalkCharset = SNORLAX
+RunCharset = SNORLAX
+CycleCharset = SNORLAX
+SurfCharset = SNORLAX
+FishCharset = SNORLAX
+#-------------------------------
+[144]
+TrainerType = ARTICUNO
+WalkCharset = ARTICUNO
+RunCharset = ARTICUNO
+CycleCharset = ARTICUNO
+SurfCharset = ARTICUNO
+FishCharset = ARTICUNO
+#-------------------------------
+[145]
+TrainerType = ZAPDOS
+WalkCharset = ZAPDOS
+RunCharset = ZAPDOS
+CycleCharset = ZAPDOS
+SurfCharset = ZAPDOS
+FishCharset = ZAPDOS
+#-------------------------------
+[146]
+TrainerType = MOLTRES
+WalkCharset = MOLTRES
+RunCharset = MOLTRES
+CycleCharset = MOLTRES
+SurfCharset = MOLTRES
+FishCharset = MOLTRES
+#-------------------------------
+[147]
+TrainerType = DRATINI
+WalkCharset = DRATINI
+RunCharset = DRATINI
+CycleCharset = DRATINI
+SurfCharset = DRATINI
+FishCharset = DRATINI
+#-------------------------------
+[148]
+TrainerType = DRAGONAIR
+WalkCharset = DRAGONAIR
+RunCharset = DRAGONAIR
+CycleCharset = DRAGONAIR
+SurfCharset = DRAGONAIR
+FishCharset = DRAGONAIR
+#-------------------------------
+[149]
+TrainerType = DRAGONITE
+WalkCharset = DRAGONITE
+RunCharset = DRAGONITE
+CycleCharset = DRAGONITE
+SurfCharset = DRAGONITE
+FishCharset = DRAGONITE
+#-------------------------------
+[150]
+TrainerType = MEWTWO
+WalkCharset = MEWTWO
+RunCharset = MEWTWO
+CycleCharset = MEWTWO
+SurfCharset = MEWTWO
+FishCharset = MEWTWO
+#-------------------------------
+[151]
+TrainerType = MEW
+WalkCharset = MEW
+RunCharset = MEW
+CycleCharset = MEW
+SurfCharset = MEW
+FishCharset = MEW

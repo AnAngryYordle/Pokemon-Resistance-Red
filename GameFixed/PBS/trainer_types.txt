@@ -540,7 +540,7 @@ Name = Sandslash
 Gender = Male
 BaseMoney = 60
 #-------------------------------
-[NIDORANF]
+[NIDORANfE]
 Name = Nidoran ♀
 Gender = Male
 BaseMoney = 60
@@ -555,7 +555,7 @@ Name = Nidoqueen
 Gender = Male
 BaseMoney = 60
 #-------------------------------
-[NIDORANM]
+[NIDORANmA]
 Name = Nidoran ♂
 Gender = Male
 BaseMoney = 60
@@ -842,5 +842,315 @@ BaseMoney = 60
 #-------------------------------
 [MUK]
 Name = Muk
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[SHELLDER]
+Name = Shellder
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[CLOYSTER]
+Name = Cloyster
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[GASTLY]
+Name = Gastly
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[HAUNTER]
+Name = Haunter
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[GENGAR]
+Name = Gengar
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[ONIX]
+Name = Onix
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[DROWZEE]
+Name = Drowzee
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[HYPNO]
+Name = Hypno
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[KRABBY]
+Name = Krabby
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[KINGLER]
+Name = Kingler
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[VOLTORB]
+Name = Voltorb
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[ELECTRODE]
+Name = Electrode
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[EXEGGCUTE]
+Name = Exeggcute
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[EXEGGUTOR]
+Name = Exeggutor
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[CUBONE]
+Name = Cubone
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[MAROWAK]
+Name = Marowak
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[HITMONLEE]
+Name = Hitmonlee
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[HITMONCHAN]
+Name = Hitmonchan
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[LICKITUNG]
+Name = Lickitung
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[KOFFING]
+Name = Koffing
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[WEEZING]
+Name = Weezing
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[RHYHORN]
+Name = Rhyhorn
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[RHYDON]
+Name = Rhydon
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[CHANSEY]
+Name = Chansey
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[TANGELA]
+Name = Tangela
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[KANGASKHAN]
+Name = Kangaskhan
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[HORSEA]
+Name = Horsea
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[SEADRA]
+Name = Seadra
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[GOLDEEN]
+Name = Goldeen
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[SEAKING]
+Name = Seaking
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[STARYU]
+Name = Staryu
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[STARMIE]
+Name = Starmie
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[MRMIME]
+Name = Mr. Mime
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[SCYTHER]
+Name = Scyther
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[JYNX]
+Name = Jynx
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[ELECTABUZZ]
+Name = Electabuzz
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[MAGMAR]
+Name = Magmar
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[PINSIR]
+Name = Pinsir
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[TAUROS]
+Name = Tauros
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[MAGIKARP]
+Name = Magikarp
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[GYARADOS]
+Name = Gyarados
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[LAPRAS]
+Name = Lapras
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[DITTO]
+Name = Ditto
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[EEVEE]
+Name = Eevee
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[VAPOREON]
+Name = Vaporeon
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[JOLTEON]
+Name = Jolteon
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[FLAREON]
+Name = Flareon
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[PORYGON]
+Name = Porygon
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[OMANYTE]
+Name = Omanyte
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[OMASTAR]
+Name = Omastar
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[KABUTO]
+Name = Kabuto
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[KABUTOPS]
+Name = Kabutops
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[AERODACTYL]
+Name = Aerodactyl
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[SNORLAX]
+Name = Snorlax
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[ARTICUNO]
+Name = Articuno
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[ZAPDOS]
+Name = Zapdos
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[MOLTRES]
+Name = Moltres
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[DRATINI]
+Name = Dratini
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[DRAGONAIR]
+Name = Dragonair
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[DRAGONITE]
+Name = Dragonite
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[MEWTWO]
+Name = Mewtwo
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[MEW]
+Name = Mew
 Gender = Male
 BaseMoney = 60
