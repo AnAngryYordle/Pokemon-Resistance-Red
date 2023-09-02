@@ -1,0 +1,5 @@
+- Short introduction cutscene
+- Pokemon are unlockable not caught
+- Evolutions are customized
+- Enemies are trainers
+- Maingame regions with Pokemon hideout locations
