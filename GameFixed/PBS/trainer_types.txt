@@ -485,8 +485,8 @@ Name = Pidgeotto
 Gender = Male
 BaseMoney = 60
 #-------------------------------
-[BEEDRILL]
-Name = Beedrill
+[PIDGEOT]
+Name = Pidgeot
 Gender = Male
 BaseMoney = 60
 #-------------------------------
