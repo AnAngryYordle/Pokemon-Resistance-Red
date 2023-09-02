@@ -32,7 +32,7 @@
 21,S,0,7,N,21
 # Route 3 (31) - Ingido Plateau (35)
 31,W,0,35,E,10
-# Route 8 (69) - Lappet Town (2)
+# Route 8 (69) - Pallet Town (2)
 69,N,12,2,S,0
 # Route 7 (47) - Battle Frontier (52)
 47,E,8,52,W,0

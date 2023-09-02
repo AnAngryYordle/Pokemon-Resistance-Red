@@ -3,8 +3,8 @@
 [001]   # Intro
 Name = Intro
 #-------------------------------
-[002]   # Lappet Town
-Name = Lappet Town
+[002]   # Pallet Town
+Name = Pallet Town
 Outdoor = true
 ShowArea = true
 MapPosition = 0,13,12
