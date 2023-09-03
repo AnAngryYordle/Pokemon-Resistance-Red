@@ -1154,3 +1154,498 @@ BaseMoney = 60
 Name = Mew
 Gender = Male
 BaseMoney = 60
+#-------------------------------
+[CHIKORITA]
+Name = Chikorita
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[BAYLEEF]
+Name = Bayleef
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[MEGANIUM]
+Name = Meganium
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[CYNDAQUIL]
+Name = Cyndaquil
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[QUILAVA]
+Name = Quilava
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[TYPHLOSION]
+Name = Typhlosion
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[TOTODILE]
+Name = Totodile
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[CROCONAW]
+Name = Croconaw
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[FERALIGATR]
+Name = Feraligatr
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[SENTRET]
+Name = Sentret
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[FURRET]
+Name = Furret
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[HOOTHOOT]
+Name = Hoothoot
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[NOCTOWL]
+Name = Noctowl
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[LEDYBA]
+Name = Ledyba
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[LEDIAN]
+Name = Ledian
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[SPINARAK]
+Name = Spinarak
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[ARIADOS]
+Name = Ariados
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[CROBAT]
+Name = Crobat
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[CHINCHOU]
+Name = Chinchou
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[LANTURN]
+Name = Lanturn
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[PICHU]
+Name = Pichu
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[CLEFFA]
+Name = Cleffa
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[IGGLYBUFF]
+Name = Igglybuff
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[TOGEPI]
+Name = Togepi
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[TOGETIC]
+Name = Togetic
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[NATU]
+Name = Natu
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[XATU]
+Name = Xatu
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[MAREEP]
+Name = Mareep
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[FLAAFFY]
+Name = Flaaffy
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[AMPHAROS]
+Name = Ampharos
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[BELLOSSOM]
+Name = Bellossom
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[MARILL]
+Name = Marill
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[AZUMARILL]
+Name = Azumarill
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[SUDOWOODO]
+Name = Sudowoodo
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[POLITOED]
+Name = Politoed
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[HOPPIP]
+Name = Hoppip
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[SKIPLOOM]
+Name = Skiploom
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[JUMPLUFF]
+Name = Jumpluff
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[AIPOM]
+Name = Aipom
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[SUNKERN]
+Name = Sunkern
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[SUNFLORA]
+Name = Sunflora
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[YANMA]
+Name = Yanma
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[WOOPER]
+Name = Wooper
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[QUAGSIRE]
+Name = Quagsire
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[ESPEON]
+Name = Espeon
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[UMBREON]
+Name = Umbreon
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[MURKROW]
+Name = Murkrow
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[SLOWKING]
+Name = Slowking
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[MISDREAVUS]
+Name = Misdreavus
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[UNOWN]
+Name = Unown
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[WOBBUFFET]
+Name = Wobbuffet
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[GIRAFARIG]
+Name = Girafarig
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[PINECO]
+Name = Pineco
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[FORRETRESS]
+Name = Forretress
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[DUNSPARCE]
+Name = Dunsparce
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[GLIGAR]
+Name = Gligar
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[STEELIX]
+Name = Steelix
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[SNUBBULL]
+Name = Snubbull
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[GRANBULL]
+Name = Granbull
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[QWILFISH]
+Name = Qwilfish
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[SCIZOR]
+Name = Scizor
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[SHUCKLE]
+Name = Shuckle
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[HERACROSS]
+Name = Heracross
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[SNEASEL]
+Name = Sneasel
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[TEDDIURSA]
+Name = Teddiursa
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[URSARING]
+Name = Ursaring
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[SLUGMA]
+Name = Slugma
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[MAGCARGO]
+Name = Magcargo
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[SWINUB]
+Name = Swinub
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[CORSOLA]
+Name = Corsola
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[REMORAID]
+Name = Remoraid
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[OCTILLERY]
+Name = Quagsire
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[DELIBIRD]
+Name = Delibird
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[MANTINE]
+Name = Mantine
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[SKARMORY]
+Name = Skarmory
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[HOUNDOUR]
+Name = Houndour
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[HOUNDOOM]
+Name = Houndoom
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[KINGDRA]
+Name = Kingdra
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[PHANPY]
+Name = Phanpy
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[DONPHAN]
+Name = Donphan
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[PORYGON2]
+Name = Porygon2
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[STANTLER]
+Name = Stantler
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[SMEARGLE]
+Name = Smeargle
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[TYROGUE]
+Name = Tyrogue
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[HITMONTOP]
+Name = Hitmontop
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[SMOOCHUM]
+Name = Smoochum
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[ELEKID]
+Name = Elekid
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[MAGBY]
+Name = Magby
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[MILTANK]
+Name = Miltank
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[BLISSEY]
+Name = Blissey
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[RAIKOU]
+Name = Raikou
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[ENTEI]
+Name = Entei
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[SUICUNE]
+Name = Suicune
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[LARVITAR]
+Name = Larvitar
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[PUPITAR]
+Name = Pupitar
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[TYRANITAR]
+Name = Tyranitar
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[LUGIA]
+Name = Lugia
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[HOOH]
+Name = Ho-Oh
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[CELEBI]
+Name = Celebi
+Gender = Male
+BaseMoney = 60
