@@ -1500,6 +1500,11 @@ Name = Swinub
 Gender = Male
 BaseMoney = 60
 #-------------------------------
+[PILOSWINE]
+Name = Piloswine
+Gender = Male
+BaseMoney = 60
+#-------------------------------
 [CORSOLA]
 Name = Corsola
 Gender = Male
