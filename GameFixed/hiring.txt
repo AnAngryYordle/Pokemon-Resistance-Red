@@ -1,6 +1,6 @@
-Pokemon Liberty looking for team
+Pokemon Resistance Red looking for team
 
-Pokemon Liberty is a fresh, but ambitious new project of mine that seeks to
+Pokemon Resistance Red is a fresh, but ambitious new project of mine that seeks to
 give the player a fresh new experience that is unlike other fangames they've
 seen so far.
 
@@ -13,12 +13,13 @@ Gameplay:
 - seeks to provide a new creative and subversive perspective on the traditional
 Pokemon experience
 - Should give plenty opportunity for sidequests, sideobjectives and unlockables
+- Based on Fire Red/Leaf Green
 
 The Story:
 You play a young Pokemon growing up in a small Pokemon settlement that is getting
 increasingly frustrated with their oppression through trainers and humanity in general.
 Slowly you start gathering an army of Pokemon willing to fight for freedom and take on
-humanity. On its way you're going to see several of the traditional Pokemon regions with additional
+humanity. On its way you're going to see Kanto (possibly other regions lateron) with additional
 areas hidden from the trainers eyes as well as different factions striving for different goals
 within a grand Pokemon revolution
 
@@ -55,4 +56,4 @@ What is the current state of the project?
 - all Gen 1 Pokemon have been added to trainer_types and metadata PBS
 
 I hope I could convince you of my pitch. If you want to contribute or even just follow the project, feel free
-to join the projects discord server: 
+to join the projects discord server: https://discord.gg/MbS32rhpy
